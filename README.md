@@ -1,7 +1,7 @@
 # solarhotwater
 System for monitoring hot water solar collectors
 This project is meant to monitor a hot water solar collector system.
-
+Please note that the hardware has not been validated yet.
 The hardware consists of:
 - 2 Layer PCB
 - Raspberry Pi hat
